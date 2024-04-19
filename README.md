@@ -10,15 +10,23 @@ The primary goal of this project is to preprocess the dataset to prepare it for 
 
 Files:
 dataset.csv: The original dataset file sourced from Kaggle.
+
 preprocessed_dataset.csv: The preprocessed dataset ready for predictive modeling.
+
 README.md: Provides an overview of the project, dataset details, and instructions for preprocessing.
+
 Preprocessing Steps:
+
 Data Cleaning: Removing or correcting any inconsistencies, errors, or outliers in the dataset.
+
 Handling Missing Values: Imputing or removing missing values in the dataset.
+
 Encoding Categorical Variables: Converting categorical variables into a numerical format suitable for modeling.
+
 Scaling Numerical Features: Scaling numerical features to bring them to a similar scale, if necessary.
 
 Contributors:
+
 Arka Dasgupta, Geetesh Matreja and Yashvardhan Rana
 
 Feel free to contribute to the project by submitting pull requests or opening issues.
