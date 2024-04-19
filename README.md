@@ -9,6 +9,7 @@ Purpose:
 The primary goal of this project is to preprocess the dataset to prepare it for further predictive modeling. This involves cleaning the data, handling missing values, encoding categorical variables, and scaling numerical features.
 
 Files:
+
 dataset.csv: The original dataset file sourced from Kaggle.
 
 preprocessed_dataset.csv: The preprocessed dataset ready for predictive modeling.
