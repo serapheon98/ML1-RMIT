@@ -27,6 +27,7 @@ Encoding Categorical Variables: Converting categorical variables into a numerica
 Scaling Numerical Features: Scaling numerical features to bring them to a similar scale, if necessary.
 
 Contributors:
+
 Arka Dasgupta, Geetesh Matreja and Yashvardhan Rana
 
 Feel free to contribute to the project by submitting pull requests or opening issues.
