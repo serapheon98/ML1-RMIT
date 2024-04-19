@@ -1,4 +1,3 @@
-Indian Rental House Price Dataset
 This repository contains a comprehensive dataset on rental house prices across various locations in India, focusing on the cities of Delhi and Mumbai. The dataset is sourced from Kaggle and includes detailed information such as house type, size, location, price, amenities, and more.
 
 Dataset Details:
